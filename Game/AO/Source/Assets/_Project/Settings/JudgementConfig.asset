@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f7751b73859d504a874035eaf135cfb, type: 3}
+  m_Name: JudgementConfig
+  m_EditorClassIdentifier: Assembly-CSharp::AO.Core.JudgementConfig
+  PerfectWindow: 0.05
+  GoodWindow: 0.1
+  NoteLeadTimeSeconds: 1.5
+  AudioOffsetSeconds: 0
+  FishStrokeMinDuration: 0.8
+  FishStrokeMaxSpeed: 1.5
+  PerfectBaseScore: 100
+  GoodBaseScore: 50
+  FishStrokeBaseScore: 200
+  FishStrokeBonusMultiplier: 1.5
+  HapticPerfectAmplitude: 0.7
+  HapticPerfectDuration: 0.06
+  HapticGoodAmplitude: 0.45
+  HapticGoodDuration: 0.04
+  HapticFishSuccessAmplitude: 0.55
+  HapticFishSuccessDuration: 0.35
+  HapticFishFailAmplitude: 0.85
+  HapticFishFailDuration: 0.08
+  HapticFishStrokingAmplitude: 0.15

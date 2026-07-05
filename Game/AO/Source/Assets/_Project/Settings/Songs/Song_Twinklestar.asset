@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14438f843aabbf94b90f8099c20496dc, type: 3}
+  m_Name: Song_Twinklestar
+  m_EditorClassIdentifier: Assembly-CSharp::AO.Core.SongDefinition
+  SongId: twinklestar
+  DisplayName: Snail's House - Twinklestar
+  SourceUrl: https://www.youtube.com/watch?v=myiJB8SiIcU
+  Thumbnail: {fileID: 21300000, guid: 5b057f52428069c40bf5521c63489d22, type: 3}
+  BgmClip: {fileID: 8300000, guid: 83f4a8bb80f5c234a9f9a99f1eb9f305, type: 3}
+  PreviewClip: {fileID: 8300000, guid: 0a27996e436a78343a68beb2a527e450, type: 3}
+  NormalBeatmap: {fileID: 4900000, guid: bcd519480a87cc64ba65ef024a86181e, type: 3}
+  DefaultPlaybackSpeed: 1
+  DefaultNoteSpeed: 1
+  DefaultAudioOffsetSeconds: 0

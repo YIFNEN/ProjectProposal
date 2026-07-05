@@ -1,40 +1,21 @@
-# AO Play
+# Game Portfolio
 
-AO 플레이 영상과 최종 발표 PDF를 포트폴리오용으로 정리한 패키지입니다.
+게임 프로젝트 기획서, 발표 자료, 플레이 영상, 공개 가능한 소스 스냅샷을 정리한 포트폴리오 폴더입니다.
 
-## 구성
+## AO
 
-- `AO_최종ppt.pdf`: 최종 발표 자료
-- `assets/AO_Play-Preview.mp4`: 저장소에 넣을 수 있게 추가 압축한 미리보기 영상
-- `assets/AO_Play-Trim.mp4`: Release asset으로 올릴 고화질 압축본
+- [AO public source snapshot](AO/README.md)
+- [AO final presentation PDF](AO_최종ppt.pdf)
+- [AO gameplay preview video](assets/AO_Play-Preview.mp4)
+- [AO planning document](AO%20기획서.pdf)
 
-## 업로드 방식
+AO의 전체 Unity 프로젝트와 빌드본은 대용량/라이선스 민감 에셋을 포함할 수 있어 저장소 본문에는 넣지 않았습니다. 대신 `/main@cs:36` 최종 제출본 기준으로 C# 소스, 비트맵 도구, 설정, 씬 YAML 스냅샷만 별도 공개용으로 정리했습니다.
 
-- PDF는 저장소에 직접 포함
-- 짧은 미리보기 영상만 저장소에 포함
-- 고화질 `AO_Play-Trim.mp4`는 GitHub Release asset으로 첨부
-- 원본 `AO_Play.mp4`는 로컬 보관용으로만 유지
+## Other Documents
 
-## 권장 저장소 구조
+- `Buddy 제안서.pdf`
+- `HomeProtector 제안서.pdf`
+- `SaveSome 최종 보고서.pdf`
+- `SaveSome 확장판.pdf`
+- `온영_기획서.pdf`
 
-```text
-AO_Play/
-├── README.md
-├── AO_최종ppt.pdf
-└── assets/
-    ├── AO_Play-Preview.mp4
-    └── AO_Play-Trim.mp4
-```
-
-## 포트폴리오 문구 예시
-
-```text
-AO는 VR 리듬 액션 프로젝트로, Quest 3 단독 실행을 목표로 D-Variant 판정 구조와 리듬/연출/피버 시스템을 통합했습니다.
-```
-
-## 업로드 순서
-
-1. 새 GitHub 저장소 생성
-2. 위 구조대로 PDF와 README를 먼저 푸시
-3. `AO_Play-Trim.mp4`는 Release를 만들어 asset으로 업로드
-4. README에서 Release 링크를 함께 안내

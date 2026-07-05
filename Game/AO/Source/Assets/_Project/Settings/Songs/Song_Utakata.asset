@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14438f843aabbf94b90f8099c20496dc, type: 3}
+  m_Name: Song_Utakata
+  m_EditorClassIdentifier: Assembly-CSharp::AO.Core.SongDefinition
+  SongId: utakata
+  DisplayName: Snail's House - Utakata
+  SourceUrl: https://www.youtube.com/watch?v=QDCe1_SzHAc
+  Thumbnail: {fileID: 21300000, guid: 67a666fbaaa984c49968ebd0ac8b01cd, type: 3}
+  BgmClip: {fileID: 8300000, guid: c2cd1b03a481ed848b27451c1acfeb6b, type: 3}
+  PreviewClip: {fileID: 8300000, guid: ae73304daeb7e624f995234cb57e2cbf, type: 3}
+  NormalBeatmap: {fileID: 4900000, guid: 06675f23e2d7b9244a93e0fd51b0bf71, type: 3}
+  DefaultPlaybackSpeed: 1
+  DefaultNoteSpeed: 1
+  DefaultAudioOffsetSeconds: 0

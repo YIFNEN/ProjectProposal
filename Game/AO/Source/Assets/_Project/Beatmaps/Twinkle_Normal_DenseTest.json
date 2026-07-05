@@ -1,0 +1,2640 @@
+{
+  "SongName": "Synthion - Twinkle (Dense Test +20)",
+  "Bpm": 89.10290948275862,
+  "StartOffsetSeconds": 0.0,
+  "SongLengthSeconds": 260.7717083333333,
+  "Notes": [
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 1.0913378684807256,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 1.0913378684807256,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 1.7414965986394557,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 2.5309750566893423,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 3.2275736961451247,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 3.877732426303855,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 4.435011337868481,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 5.085170068027211,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 5.735328798185941,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 6.408707482993197,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 7.058866213151927,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 7.7090249433106575,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 7.7090249433106575,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 8.382403628117913,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 9.102222222222222,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 3,
+      "HitTime": 9.752380952380953,
+      "Duration": 2.2058956916099763,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 10.47219954648526,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 11.215238095238096,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 11.95827664399093,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 12.701315192743763,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 13.421133786848072,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 14.048072562358277,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 14.698231292517006,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 14.698231292517006,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 15.371609977324264,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 16.04498866213152,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 16.718367346938777,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 17.39174603174603,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 18.04190476190476,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 18.692063492063493,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 18.692063492063493,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 19.365442176870747,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 20.038820861678005,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 20.712199546485262,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 20.712199546485262,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 21.36235827664399,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 21.36235827664399,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 21.942857142857143,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 22.54657596371882,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 23.196734693877552,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 23.870113378684806,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 24.543492063492064,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 25.193650793650793,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 25.193650793650793,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 25.890249433106575,
+      "Duration": 1.9736961451247161,
+      "Variant": "fish_gold"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 27.213786848072562,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 27.86394557823129,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 28.53732426303855,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 28.53732426303855,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 29.210702947845807,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 29.88408163265306,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 30.55746031746032,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 31.207619047619048,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 31.207619047619048,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 31.880997732426305,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 31.880997732426305,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 32.55437641723356,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 33.20453514739229,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 33.877913832199546,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 33.877913832199546,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 34.528072562358275,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 35.22467120181406,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 35.87482993197279,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 36.548208616780045,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 36.548208616780045,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 3,
+      "HitTime": 37.198367346938774,
+      "Duration": 2.0201360544217692,
+      "Variant": "fish_pink"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 37.871746031746035,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 38.54512471655329,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 39.86866213151927,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 39.86866213151927,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 40.542040816326534,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 41.19219954648526,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 41.84235827664399,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 42.53895691609977,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 43.21233560090703,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 43.21233560090703,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 43.86249433106576,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 44.535873015873015,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 45.186031746031745,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 45.88263038548753,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 46.53278911564626,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 46.53278911564626,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 47.22938775510204,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 1,
+      "HitTime": 47.87954648526077,
+      "Duration": 1.9969160997732445,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 48.529705215419504,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 49.20308390022676,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 49.20308390022676,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 49.87646258503401,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 50.52662131519274,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 51.13034013605442,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 51.803718820861675,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 52.54675736961451,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 52.54675736961451,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 53.22013605442177,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 53.8702947845805,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 54.543673469387755,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 54.543673469387755,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 55.21705215419501,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 55.21705215419501,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 55.86721088435374,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 56.563809523809525,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 57.213968253968254,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 57.88734693877551,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 57.88734693877551,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 58.53750566893424,
+      "Duration": 1.3467573696145152,
+      "Variant": "fish_gold"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 59.2108843537415,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 59.88426303854875,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 59.88426303854875,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 60.53442176870748,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 60.53442176870748,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 61.207800453514736,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 61.881179138322,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 62.5081179138322,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 63.15827664399093,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 63.85487528344671,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 64.55147392290249,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 65.20163265306122,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 65.20163265306122,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 65.87501133786849,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 66.52517006802721,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 67.221768707483,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 67.87192743764173,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 67.87192743764173,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 68.54530612244898,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 69.21868480725624,
+      "Duration": 1.9969160997732445,
+      "Variant": "fish_pink"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 69.86884353741496,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 70.54222222222222,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 70.54222222222222,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 71.21560090702948,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 71.8657596371882,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 72.53913832199547,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 73.18929705215419,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 73.88589569160997,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 73.88589569160997,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 74.55927437641724,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 75.20943310657596,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 75.88281179138322,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 76.53297052154196,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 76.53297052154196,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 77.2063492063492,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 77.87972789115646,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 78.55310657596372,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 79.22648526077097,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 79.87664399092971,
+      "Duration": 1.3235374149659833,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 80.55002267573695,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 80.55002267573695,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 81.20018140589569,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 81.87356009070295,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 81.87356009070295,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 82.52371882086167,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 83.12743764172336,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 83.12743764172336,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 83.80081632653061,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 84.4974149659864,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 85.17079365079366,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 85.86739229024943,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 86.54077097505669,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 87.21414965986395,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 87.8875283446712,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 87.8875283446712,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 88.56090702947846,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 89.2110657596372,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 89.88444444444444,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 90.5578231292517,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 91.23120181405896,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 91.88136054421769,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 92.55473922902495,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 93.18167800453514,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 93.18167800453514,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 93.92471655328798,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 94.55165532879819,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 95.24825396825396,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 96.03773242630386,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 96.03773242630386,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 96.71111111111111,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 97.38448979591837,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 98.05786848072562,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 98.70802721088435,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 99.38140589569161,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 99.38140589569161,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 100.05478458049886,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 100.72816326530612,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 100.72816326530612,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 101.37832199546486,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 102.0517006802721,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 102.72507936507937,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 103.37523809523809,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 104.07183673469387,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 104.72199546485261,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 105.39537414965986,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 105.39537414965986,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 106.0455328798186,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 106.69569160997733,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 106.69569160997733,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 107.27619047619048,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 107.87990929705215,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 108.53006802721089,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 109.20344671201813,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 109.8768253968254,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 110.52698412698413,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 110.52698412698413,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 111.20036281179138,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 111.87374149659864,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 112.5471201814059,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 113.19727891156462,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 113.19727891156462,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 113.87065759637188,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 114.54403628117913,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 115.21741496598639,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 115.86757369614513,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 115.86757369614513,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 116.54095238095238,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 117.19111111111111,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 117.86448979591837,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 118.53786848072562,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 118.53786848072562,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 119.21124716553288,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 119.8614058956916,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 120.53478458049887,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 121.20816326530613,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 121.20816326530613,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 121.88154195011337,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 0,
+      "HitTime": 122.53170068027211,
+      "Duration": 1.9969160997732445,
+      "Variant": "fish_gold"
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 123.20507936507937,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 123.87845804988662,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 125.13233560090703,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 125.71283446712017,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 126.29333333333334,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 126.92027210884353,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 127.57043083900227,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 128.19736961451247,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 128.19736961451247,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 128.91718820861678,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 129.5673469387755,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 130.24072562358276,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 130.86766439909297,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 130.86766439909297,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 131.56426303854875,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 132.237641723356,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 132.91102040816327,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 133.53795918367348,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 133.53795918367348,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 134.23455782312925,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 134.9079365079365,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 135.58131519274377,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 136.20825396825396,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 136.20825396825396,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 136.90485260770976,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 137.55501133786848,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 138.25160997732425,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 138.87854875283446,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 138.87854875283446,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 139.57514739229026,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 140.2485260770975,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 140.92190476190476,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 141.54884353741497,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 141.54884353741497,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 142.24544217687074,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 142.918820861678,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 143.56897959183672,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 144.14947845804988,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 144.14947845804988,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 144.72997732426305,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 144.72997732426305,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 145.38013605442177,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 146.05351473922903,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 146.70367346938775,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 0,
+      "HitTime": 147.377052154195,
+      "Duration": 1.3467573696145223,
+      "Variant": "fish_pink"
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 148.05043083900227,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 148.72380952380954,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 148.72380952380954,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 149.37396825396826,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 149.37396825396826,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 150.04734693877552,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 150.72072562358278,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 151.39410430839,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 152.04426303854876,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 152.717641723356,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 153.39102040816326,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 154.06439909297052,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 154.71455782312924,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 155.3879365079365,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 156.06131519274376,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 156.06131519274376,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 156.73469387755102,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 157.38485260770975,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 3,
+      "HitTime": 158.058231292517,
+      "Duration": 1.3235374149659833,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 158.73160997732427,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 159.381768707483,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 160.05514739229025,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 160.70530612244897,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 161.37868480725623,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 162.0520634920635,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 162.0520634920635,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 162.72544217687076,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 163.37560090702948,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 164.04897959183674,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 164.722358276644,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 165.37251700680272,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 166.04589569160999,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 166.71927437641725,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 167.39265306122448,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 168.04281179138323,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 168.71619047619046,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 168.71619047619046,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 169.3663492063492,
+      "Duration": 1.3235374149659833,
+      "Variant": "fish_gold"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 170.03972789115647,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 170.6898866213152,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 171.27038548752836,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 171.87410430839003,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 171.87410430839003,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 172.5474829931973,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 173.22086167800452,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 173.8942403628118,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 174.5443990929705,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 174.5443990929705,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 175.21777777777777,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 175.86793650793652,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 176.54131519274375,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 177.214693877551,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 177.214693877551,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 177.86485260770976,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 178.538231292517,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 179.21160997732426,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 179.88498866213152,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 179.88498866213152,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 180.55836734693878,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 181.23174603174604,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 181.88190476190476,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 182.5320634920635,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 182.5320634920635,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 183.20544217687075,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 183.85560090702947,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 1,
+      "HitTime": 184.55219954648527,
+      "Duration": 1.3235374149659833,
+      "Variant": "fish_pink"
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 185.202358276644,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 185.202358276644,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 185.87573696145125,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 186.5491156462585,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 187.19927437641724,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 187.8726530612245,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 187.8726530612245,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 188.54603174603176,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 189.19619047619048,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 189.79990929705215,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 190.38040816326532,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 190.38040816326532,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 191.03056689342404,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 191.6342857142857,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 192.26122448979592,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 192.88816326530613,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 193.53832199546486,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 194.18848072562358,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 194.18848072562358,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 194.86185941043084,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 195.5352380952381,
+      "Duration": 6.664126984126966,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 196.20861678004536,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 196.8819954648526,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 197.53215419501134,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 198.2055328798186,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 199.5290702947846,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 199.5290702947846,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 200.20244897959185,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 200.87582766439908,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 201.54920634920634,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 202.19936507936507,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 202.19936507936507,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 202.87274376417233,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 203.5461224489796,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 203.5461224489796,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 204.1962811791383,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 204.86965986394557,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 205.49659863945578,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 2,
+      "HitTime": 206.19319727891155,
+      "Duration": 1.4164172335601108,
+      "Variant": "fish_gold"
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 206.88979591836735,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 208.3526530612245,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 209.04925170068026,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 209.04925170068026,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 209.699410430839,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 210.37278911564627,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 210.37278911564627,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 211.13904761904763,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 211.81242630385486,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 212.48580498866212,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 213.18240362811792,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 213.8790022675737,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 213.8790022675737,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 214.52916099773242,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 214.52916099773242,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 215.20253968253968,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 215.8526984126984,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 216.5492970521542,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 216.5492970521542,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 217.19945578231292,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 217.8960544217687,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 1,
+      "HitTime": 218.54621315192745,
+      "Duration": 1.9969160997732445,
+      "Variant": "fish_pink"
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 219.19637188208617,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 219.19637188208617,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 219.86975056689343,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 219.86975056689343,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 220.5431292517007,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 221.1932879818594,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 221.79700680272109,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 222.47038548752835,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 223.21342403628117,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 223.21342403628117,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 223.88680272108843,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 224.53696145124715,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 225.2103401360544,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 225.88371882086167,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 225.88371882086167,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 226.5338775510204,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 227.20725623582766,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 227.88063492063492,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 228.55401360544218,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 228.55401360544218,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 229.2041723356009,
+      "Duration": 0.0
+    },
+    {
+      "Type": 1,
+      "Lane": 3,
+      "HitTime": 229.87755102040816,
+      "Duration": 1.3235374149659833,
+      "Variant": "fish_cyan"
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 231.20108843537415,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 231.8744671201814,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 231.8744671201814,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 2,
+      "HitTime": 232.54784580498867,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 233.2908843537415,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 234.03392290249434,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 234.03392290249434,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 234.7073015873016,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 235.38068027210883,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 236.03083900226758,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 236.70421768707482,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 237.37759637188208,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 238.05097505668934,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 238.05097505668934,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 0,
+      "HitTime": 238.70113378684806,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 239.37451247165532,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 3,
+      "HitTime": 240.04789115646258,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 1,
+      "HitTime": 240.72126984126984,
+      "Duration": 0.0
+    },
+    {
+      "Type": 0,
+      "Lane": 4,
+      "HitTime": 241.37142857142857,
+      "Duration": 0.0
+    }
+  ]
+}
