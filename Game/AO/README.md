@@ -26,7 +26,8 @@ Because runtime media assets are intentionally excluded, this snapshot is not in
 
 ## Links
 
-- [Final presentation PDF](../AO_최종ppt.pdf)
+- [Planning document](AO%20기획서.pdf)
+- [Final presentation PDF](AO_최종ppt.pdf)
 - [Gameplay preview video](../assets/AO_Play-Preview.mp4)
 
 ## Main Implementation Areas
@@ -46,4 +47,3 @@ Because runtime media assets are intentionally excluded, this snapshot is not in
 - Render pipeline: URP `17.3.0`
 - XR target: Meta Quest 3 / OpenXR
 - Main input: Quest Touch Plus controllers through XR Interaction Toolkit and OpenXR
-
